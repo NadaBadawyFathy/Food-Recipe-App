@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Food-Recipe-App/static/css/main.85475857.css",
+    "main.js": "/Food-Recipe-App/static/js/main.8da84cbb.js",
+    "static/js/453.6956ee4a.chunk.js": "/Food-Recipe-App/static/js/453.6956ee4a.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Food-Recipe-App/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Food-Recipe-App/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Food-Recipe-App/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Food-Recipe-App/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Food-Recipe-App/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Food-Recipe-App/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Food-Recipe-App/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Food-Recipe-App/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Food-Recipe-App/index.html",
+    "main.85475857.css.map": "/Food-Recipe-App/static/css/main.85475857.css.map",
+    "main.8da84cbb.js.map": "/Food-Recipe-App/static/js/main.8da84cbb.js.map",
+    "453.6956ee4a.chunk.js.map": "/Food-Recipe-App/static/js/453.6956ee4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85475857.css",
+    "static/js/main.8da84cbb.js"
+  ]
+}
